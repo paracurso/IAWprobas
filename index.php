@@ -2,5 +2,5 @@
 echo "proba";
 echo "inicial";
 echo "dos";
-echo "tres";
+echo "tres";echo "remoto";
 ?>
